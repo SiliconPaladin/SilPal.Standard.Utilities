@@ -2,7 +2,7 @@
 
 namespace SilPal.Standard.Utilities
 {
-    public class Class1
+    public class StringExtensions
     {
     }
 }
